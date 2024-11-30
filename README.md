@@ -1,3 +1,29 @@
+# PRACTICA-ESTILOS-REACT
+
+## Descripción del Proyecto
+**PRACTICA-ESTILOS-REACT** es un proyecto diseñado para aprender y practicar la aplicación de estilos en aplicaciones de React utilizando diversas tecnologías modernas. Este repositorio incluye ejemplos de uso de **Styled-Components**, **SASS**, **TailwindCSS** y otras herramientas para estilizar componentes de manera eficiente y modular.
+
+El objetivo principal de este proyecto es explorar diferentes enfoques para aplicar estilos y entender cómo integrarlos en un entorno de React.
+
+## Tecnologías Utilizadas
+- **React.js**
+- **Styled-Components**
+- **SASS/SCSS**
+- **TailwindCSS**
+- **CSS Módulos**
+
+## Funcionalidades Destacadas
+- **Exploración de Estilos:** Ejemplos prácticos de cómo aplicar estilos con diferentes tecnologías.
+- **Componentes Estilizados:** Uso de enfoques modulares y reutilizables para mantener los estilos organizados.
+- **Diseño Responsivo:** Implementación de estilos adaptativos con herramientas como TailwindCSS.
+
+## Instrucciones de Instalación y Uso
+Sigue estos pasos para instalar y ejecutar el proyecto localmente:
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/KevinCasados/PRACTICA-ESTILOS-REACT.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
